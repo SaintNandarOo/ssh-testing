@@ -4,7 +4,7 @@ name: default
 
 server:
   host: seint-drone.digitalstacks.net
-  user: ubuntu
+  user: SaintNandarOo
   password: virtualcom
 
 steps:
