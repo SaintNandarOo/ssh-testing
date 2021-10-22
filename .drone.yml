@@ -5,7 +5,9 @@ name: default
 server:
   host: seint-drone.digitalstacks.net
   user: SaintNandarOo
-  password: virtualcom
+  password:
+    from_secret: password
+
 
 steps:
 - name: greeting
