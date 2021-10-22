@@ -6,7 +6,7 @@ server:
   host: 18.181.228.86
   user: ubuntu
   password:
-    from_secret: password
+    from_secret: ssh
 
 steps:
 - name: greeting
