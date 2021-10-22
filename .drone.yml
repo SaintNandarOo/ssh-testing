@@ -9,6 +9,6 @@ server:
     from_secret: password
 
 steps:
-- name: greeting
+- name: greetings
   commands:
   - echo hello world
