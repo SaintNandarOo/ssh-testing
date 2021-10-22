@@ -4,10 +4,9 @@ name: default
 
 server:
   host: seint-drone.digitalstacks.net
-  user: SaintNandarOo
+  user: ubuntu
   password:
     from_secret: password
-
 
 steps:
 - name: greeting
