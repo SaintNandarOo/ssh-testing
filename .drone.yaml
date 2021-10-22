@@ -3,7 +3,7 @@ type: ssh
 name: default
 
 server:
-  host: 18.181.228.86
+  host: localhost
   user: ubuntu
   password: virtualcom
 
