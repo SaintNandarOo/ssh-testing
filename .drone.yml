@@ -2,12 +2,6 @@ kind: pipeline
 type: ssh
 name: default
 
-server:
-  host: 18.181.228.86
-  user: ubuntu
-  password:
-    from_secret: password
-
 steps:
 - name: greetings
   commands:
