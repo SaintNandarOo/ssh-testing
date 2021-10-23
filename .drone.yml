@@ -4,6 +4,7 @@ name: default
 
 server:
   host: 18.181.228.86
+  user: ubuntu
 
 steps:
 - name: greetings
