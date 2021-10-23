@@ -2,6 +2,9 @@ kind: pipeline
 type: ssh
 name: default
 
+server:
+  host: 18.181.228.86
+
 steps:
 - name: greetings
   commands:
